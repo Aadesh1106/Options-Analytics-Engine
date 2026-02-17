@@ -263,10 +263,4 @@ The implementation includes:
 
 MIT License
 
-## 👤 Author
 
-Aadesh - Quantitative Finance Engineer
-
----
-
-**Note**: This is an educational and research tool. Use at your own risk for actual trading.
